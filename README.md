@@ -17,6 +17,6 @@ In each of the folders is an individual challenge provided by HackerRank.com.
 
 * Copy the code from `index.php` and paste it inside the Editor.
 
-* Click on the `Run Code` or `Submit Code`(will require a user account) button to run tests to validate the code.
+* Click on the `Run Code` or `Submit Code` (both will require a user account) button to run tests and validate the code.
 
 **Note:** All code should validate with both `Run Code` and `Submit Code`
